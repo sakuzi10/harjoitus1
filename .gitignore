@@ -1,0 +1,7 @@
+# .gitignore file
+
+# ignored file types:
+
+*.in
+*.out
+*.pyc
